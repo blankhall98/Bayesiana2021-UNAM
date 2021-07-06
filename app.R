@@ -2,6 +2,8 @@
 #Jonatan BlankHall & José Giral Barajas
 
 #App == Main File
+#Archivo principal del proyecto. En este archivo se escribe procedimiento
+#----------
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 #Libraries
